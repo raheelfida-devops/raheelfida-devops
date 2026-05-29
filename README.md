@@ -76,12 +76,12 @@ I'm a multi-disciplined engineer with hands-on expertise across **DevOps**, **Sy
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raheelfida-devops&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raheelfida-devops&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=raheelfida-devops&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheelfida-devops&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheelfida-devops&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="40%" />
 </p>
 
 ---
