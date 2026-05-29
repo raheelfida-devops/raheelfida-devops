@@ -3,7 +3,7 @@
 <h3 align="center">🚀 DevOps Engineer | 🖥️ Systems Engineer | 🌐 Network Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+%7C+CI%2FCD+%7C+Cloud+Infrastructure;Linux+Systems+Administration;Network+Design+%26+Security;Automating+Everything" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+%7C+CI%2FCD+%7C+Cloud+Infrastructure;Linux+Systems+Administration;Network+Design+%26+Security;Automating+Everything" alt="Typing SVG" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ I'm a multi-disciplined engineer with hands-on expertise across **DevOps**, **Sy
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raheelfida-devops&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raheelfida-devops&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=raheelfida-devops&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
